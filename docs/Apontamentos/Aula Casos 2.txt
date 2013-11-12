@@ -1,0 +1,48 @@
+Aula 5 - Text Based
+
+Identificador
+Nome e breve descrição
+Ator
+Prioridade
+Requsistor não funcionais associados
+Pré Condições
+Pós-Condições
+Fluxo de eventos principal
+Fluxos secundários: alternativos e de exceção
+
+Identifiação deve ser única: UC01
+
+Breve descrição: Abstract
+
+Prioridades: Usar numerações. 0 - 10
+Deve ser feito para todos os casos de uso.
+
+Pré-Pós: 
+
+Pré: Os itens do pedido devem estar em estoque.
+	Deve haver um CPF antes (Recadastrar CPF).
+
+Pós: Os itens eviados devem ser abatidos do esque.
+	
+
+
+Fluxo Principal: Algorítmo de alto nível bem simples e direto.
+		Diagrama de atividades.
+		Caminho feliz.
+		Sempre fazer primeiro o caminho feliz.		
+		Deve ser feito para cada bolinha.
+
+Inclui os subfluxos.
+		
+ex: Sacar dinheiro.
+1. O cliente passa o cartão
+2. O sistema solicita senha e valor do saque
+3. O cliente digita os valores solicitados
+4. O sistema erifica se há saldo suficiente
+5. O sistema debita da conta do clinete o valor do saque.
+6. O dinheiro é entregue ao cliente.
+
+E se não houver dinheiro?
+E se a senha estiver errada?
+
+Fluxo secundário: 

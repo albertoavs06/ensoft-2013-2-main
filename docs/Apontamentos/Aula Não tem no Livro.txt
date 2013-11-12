@@ -1,0 +1,127 @@
+Cada seta que sai do usuário para um analista de negócios, gera um sistema
+diferente. Muito cuidado!
+Analistas não irão concordar entre si.
+
+Gerente -> Analista de Negócios
+
+Assistir filme fazer uma redação sobre ele. Teste de requisitos e expressão.
+O mais detalhado possível. Achar o kernel do filme. Contratar analista.
+Mandar muitos analistas de uma vez pode intimidar o usuário.
+Jucimar MODE.
+
+Não mandar o gerente no lugar do analista. Cada um deve fazer bem o seu trabalho.
+
+Programador, Designer, Analista, Gerente e Contador.
+
+Gerente não deve colher requisitos.
+Se o cliente for homem, mande uma mulher e vice-versa.
+Não irrite o cliente e não o irrite mais ainda, mandando a mesma pessoa que o irritou. Analista é o ponto focal da equipe. Não existe espaço para improviso. Um cliente é o ponto focal dos clientes.
+
+----------------//----------------------
+
+Casos de Uso
+
+Histórinhas contadas sobre o comportamento ou funcionamento do sistema.
+
+Servem como guia para:
+Criação e validação da arch. do sistema. 
+Forma Oval (UML)
+Definição de casos e procedimentos de testes.
+Planejamento de iterações, elaboraçã do crono. e organizar o time.
+Criação da documentação do usuário.
+
+O RUP, começa com os caso de uso.
+Nome do caso de uso será usando verbos no infinitivo, em breve oração sobre a tarefa.
+
+Ator: qualquer coisa que possui interface com o sistema a ser desenvolvido.
+Definem um papel particular.
+São sempre externos ao sistema.
+O sisteam será descrito através de vários casos de uso que são executados por vários atores.
+Representado por um homem de palitinhos.
+Aplicativo vs Aplicação
+
+Consumir um serviço é uma relação sistema ator.
+Depende sempre do referencial.
+
+Casos de uso não mapeam os requisitos não funcionais do sistema.
+Logo a colheita de dados, apenas com o caso de uso, limita a quantidades de requisitos colhidos e resultam num sistema incompleto.
+Casos de uso colhem requisitos funcionais.
+
+Deve haver um ator externo para que o caso de uso possa ser gerado.
+Caso de uso não tem setas. Pois são bilaterais.
+
+Cenários: 
+
+Um caminho através de um caso de uso.
+Fazer coleção de cenários.
+
+Pacotes feitos para agrupar casos de uso relacionados.
+
+Como encontrar os atores?
+Fazendo perguntas sobre os possíveis usos e interações externas ao sistema.
+Quem usa?
+Quem instala?
+Que outros sistemas usam o sistema?
+Quem recebe informações sobre do sistema?
+Quem provê informação ao sistema?
+Sempre IDENTIFIQUE quem vai usar o SISTEMA e porquê.
+
+POBRE FANBOY!!!
+
+Como encontrar casos de uso?!
+Atores são fundamentais
+Pergunte que funções o ator vai querer do sistema?
+O sistema armazena informações?
+
+Casos de uso, canonicamente, não tem telas.
+
+Técnicas para levantar casos de uso: Usabilidade LEVA HORAS!!!!!
+Use-Case workshop: Não podem ter muita gente. Consulte todos.
+Pessoas com diferentes perfis. Presença de um facilitador (facilia de toda forma a vida da equipe, moderador, comprador de pizza e cocaí...). É o dono do video-game.
+Aceitar todo tipo de sugestão, filtrar depois.
+Evite pensar em detalhes (Lucas).
+Os casos de uso levantados devem estar claros para todos!
+Principalemnte o valor que cada um agrega ao usuário.
+Faça reuniões, conversas com o usuário.
+Eu consigo funcionar meu site!! sem isso? Se sim, desce na prioridade.
+
+Include vs Extends (Relacionamento entre casos de uso)
+
+Include (Seta saindo), é uma seta pontilhada para algo a ser usado obrigatóriamente por um caso de uso. Pode ser entre casos de uso.
+Extends é opcional (Seta entrando).
+Caso de uso não tem fluxo nem curso.
+Tentar casar os reqs funcionais com os casos de uso.
+
+
+
+Modelo de caso de uso.
+Pratos para comer.<Z
++++++++++++++++
+
+Caixa:
+Após fechamento do garçon.
+O caixa deve processar o pagamento.
+O caixa pode fechar o pedido.
+
+Cozinha:
+Deve apenas cozinhar o pedido.
+Deve dizer quando está pronto.
+
+Garçon:
+Pode cancelar o pedido.
+*Deve ter a mesa que está sendo atendida.
+Deve ter o garçon que está atendendo.
+Anotar pedido. Faz pedido.
+
+Administrador:
+Cadastrar pratos no sistema.
+E Bebidas.
+
+
+
+
+Únicos atores.
+
+No Astah. Próxima Aula.
+Apenas um retângulo. Um pacote.
+Somente o diagrama.

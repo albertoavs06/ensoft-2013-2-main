@@ -1,0 +1,10 @@
+Agora tem que desenhar as telas.
+Wireframe
+Cada bolinha representa uma ou múltiplas telas.
+Pencil, Prototype e Moqups.
+Diferentes Tipos de dispositivos.
+Preocupar com o custo.
+4 Atores, Dispositivos que cada um vai usar (SO, tamanho de tela e como usar) e definir o wireframe.
+Nunca desenhe em alta definição, o usuário vai pensar que já está pronto.
+Atualizar o diagrama de atividades e conferir os casos de uso. Fazer as telas.
+Tentar otimizar o diagrama de casos de uso.

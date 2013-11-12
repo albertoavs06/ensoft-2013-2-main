@@ -1,0 +1,57 @@
+Caminho Feliz (Happy Path)
+	- Fluxo Alternativo
+	- Exceção
+
+UC01
+1. Passo 1 xxxxxx
+	1.1 xxxxxx
+	1.2 xxxxxx
+2. xxxxxxx
+	2.1 xxxxxx
+	2.2 xxxxxx
+	2.3 xxxxxx
+		2.1.1 xxxxx
+		2.1.2 xxxxx
+3. xxxxxxx
+4. xxxxxxx
+
+Jucimar não cria fluxos alternativos. Ele cria novos casos de uso.
+
+
+Montar:
+RFU
+RFS
+RNF
+RNeg
+
+Novo sistema operacional da samsung Baha. Baja.
+
+Diagrama de Atividades.
+Bola inicial Preta
+
+Fazer o fluxo do sistema.
+Todos os casos.
+Casos podem voltar para casos.
+O diagrama pode ter mais de um fim.
+
+
+
+Diagrama de estados.
+Descrever o estado do pedido.
+
+
+RAIDS (No diagrama de atividades)
+
+Caixa !! Garçon !! Sistema
+
+
+Fazer o caminho feliz.
+Pedido Normal
+Pedido Cancelado
+
+Pedido Normal + Itens Avulsos
+
+Diagrama Estados - PEdido
+Astah
+
+
